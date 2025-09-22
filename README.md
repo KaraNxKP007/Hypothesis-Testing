@@ -39,5 +39,3 @@ This project analyzes NYC yellow taxi trip data to understand the relationship b
 - Scikit-learn for machine learning
 - Matplotlib, Seaborn for visualization
 - Jupyter Notebooks for analysis
-
-## Project Structure
